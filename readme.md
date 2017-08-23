@@ -1,6 +1,6 @@
-# Crash Course 2
+# Crash Course 2: Invaders
 
-This is just a test git repo for a Stencyl project.
+This is just a test git repo for a [Stencyl](http://www.stencyl.com/) project.
 
 # License
 
